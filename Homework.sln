@@ -9,6 +9,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaCalc", "ConsoleApplic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayOfDelegates", "ArrayOfDelegates\ArrayOfDelegates.csproj", "{3818509D-E124-42D6-B821-0737EEDEC40E}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Delegates", "Delegates", "{B1EDB1BA-2D55-4EE7-B99E-5234B2DF7EFE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Generics", "Generics", "{E6E9FE58-7E58-4A8B-A5A9-2CD78DACA331}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication2", "ConsoleApplication2\ConsoleApplication2.csproj", "{AE4D0181-ABE4-4F07-BFAF-A0FFDA7541A0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,8 +33,18 @@ Global
 		{3818509D-E124-42D6-B821-0737EEDEC40E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3818509D-E124-42D6-B821-0737EEDEC40E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3818509D-E124-42D6-B821-0737EEDEC40E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE4D0181-ABE4-4F07-BFAF-A0FFDA7541A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE4D0181-ABE4-4F07-BFAF-A0FFDA7541A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE4D0181-ABE4-4F07-BFAF-A0FFDA7541A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE4D0181-ABE4-4F07-BFAF-A0FFDA7541A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5A247B1A-9B38-4EDD-A4B2-965129433946} = {B1EDB1BA-2D55-4EE7-B99E-5234B2DF7EFE}
+		{D11CB797-5FB4-4205-A8D9-C1872CC16B27} = {B1EDB1BA-2D55-4EE7-B99E-5234B2DF7EFE}
+		{3818509D-E124-42D6-B821-0737EEDEC40E} = {B1EDB1BA-2D55-4EE7-B99E-5234B2DF7EFE}
+		{AE4D0181-ABE4-4F07-BFAF-A0FFDA7541A0} = {E6E9FE58-7E58-4A8B-A5A9-2CD78DACA331}
 	EndGlobalSection
 EndGlobal
