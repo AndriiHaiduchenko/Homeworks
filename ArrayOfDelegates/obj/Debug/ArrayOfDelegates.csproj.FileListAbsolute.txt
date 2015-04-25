@@ -1,0 +1,6 @@
+c:\Users\Andrii\documents\visual studio 2013\Projects\Homeworks\ArrayOfDelegates\bin\Debug\ArrayOfDelegates.exe.config
+c:\Users\Andrii\documents\visual studio 2013\Projects\Homeworks\ArrayOfDelegates\bin\Debug\ArrayOfDelegates.exe
+c:\Users\Andrii\documents\visual studio 2013\Projects\Homeworks\ArrayOfDelegates\bin\Debug\ArrayOfDelegates.pdb
+c:\Users\Andrii\documents\visual studio 2013\Projects\Homeworks\ArrayOfDelegates\obj\Debug\ArrayOfDelegates.csprojResolveAssemblyReference.cache
+c:\Users\Andrii\documents\visual studio 2013\Projects\Homeworks\ArrayOfDelegates\obj\Debug\ArrayOfDelegates.exe
+c:\Users\Andrii\documents\visual studio 2013\Projects\Homeworks\ArrayOfDelegates\obj\Debug\ArrayOfDelegates.pdb
